@@ -1,28 +1,34 @@
-<h1 align="center">Hi 👋, I'm Md Emon Hosen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![ Fontent Web Designer](https://media.licdn.com/dms/image/D5616AQG4SC-BuKb3lQ/profile-displaybackgroundimage-shrink_350_1400/0/1677563054880?e=1725494400&v=beta&t=ofA8MFTR-jlgoodyZF47Gl_DCoey_md3a85Z91d2-TM)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w3emon&label=Profile%20views&color=0e75b6&style=flat" alt="w3emon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w3emon" alt="w3emon" /></a> </p>
+### Hi there 👋, I'm Md. Emon Hosen
+####  Fontent Web Designer
 
-<p align="left"> <a href="https://twitter.com/w3emon" target="blank"><img src="https://img.shields.io/twitter/follow/w3emon?logo=twitter&style=for-the-badge" alt="w3emon" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w3emon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="w3emon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="w3emon" height="30" width="40" /></a>
-<a href="https://fb.com/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="w3emon" height="30" width="40" /></a>
-<a href="https://instagram.com/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w3emon" height="30" width="40" /></a>
-<a href="https://dribbble.com/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="w3emon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/w3emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="w3emon" height="30" width="40" /></a>
-</p>
+Highly creative and motivated Web Designer with 1+ years of experience in creating user-friendly websites and applications. Proven history of working on a variety of projects and meeting tight deadlines. Possesses strong design and coding skills in HTML5, CSS3, JavaScript, and jQuery Plugin.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3emon&show_icons=true&locale=en&layout=compact" alt="w3emon" /></p>
+Skills: HTML  / CSS / JAVASCRIPT / BOOTSTRAP5 / PSD TO HTML / FIGMA TO HTML / CANVA 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w3emon&show_icons=true&locale=en" alt="w3emon" /></p>
+- 🔭 I’m currently working on online 
+- 🌱 I’m currently learning React.js 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Fontent Web Designer 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w3emon&" alt="w3emon" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/w3emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/w3emon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/w3emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/w3emon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/w3emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/w3emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/w3emon)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=w3emon)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3emon)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=w3emon&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/w3emon/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/w3emon)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=w3emon)  
+
